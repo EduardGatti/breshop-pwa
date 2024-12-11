@@ -1,0 +1,15 @@
+.cabecalho_root {
+  height: 48px;
+  /* background-color: var(--cor-primaria); */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  background-color: #003566;
+  border-radius: 0px 0px 12px 12px;
+
+  /* padding-top: 0;
+  padding-right: 16px;
+  padding-bottom: 0;
+  padding-left: 16px; */
+}

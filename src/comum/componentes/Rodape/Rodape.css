@@ -1,0 +1,25 @@
+.rodape_root {
+ 
+  height: 48px;
+  /* background-color: var(--cor-primaria-clara); */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  background-color:#003566;
+  border-radius: 12px 12px 0px 0px;
+}
+.butaoSettings {
+  background-color: var(--cor-info);
+  display: flex; /* Usando flexbox para o conteúdo do botão */
+  align-items: center; /* Alinha verticalmente a imagem e o texto */
+  padding: 10px 20px; /* Adiciona espaço ao redor do conteúdo */
+  border: none;
+  cursor: pointer;
+}
+
+.iconeBotao {
+  height: 60%; /* Ajusta a altura da imagem para ser 60% da altura do botão */
+  width: auto; /* Mantém a proporção da imagem */
+  margin-right: 10px; /* Espaço entre a imagem e o texto */
+}

@@ -1,0 +1,16 @@
+
+.pesquisa {
+  
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.iconPesquisar {
+  right: 20px;
+  transform: translateY(15%);
+  transform: translateX(-7px);
+  font-size: 25px;
+  color: #888;
+  cursor: pointer;
+}

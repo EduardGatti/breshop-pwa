@@ -1,0 +1,20 @@
+.search{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 3px;
+}
+.search > input {
+    width: 100%;
+    padding: 16px;
+      font-size: 16px;
+      border-radius: 16px;
+      border: 1.5px solid black;
+}
+.iconPesquisar{
+
+    width: 100px;
+    bottom: 40px;
+    align-items: center;
+    margin-top: 10px;
+}
